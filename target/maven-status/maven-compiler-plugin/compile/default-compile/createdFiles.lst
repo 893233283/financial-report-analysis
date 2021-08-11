@@ -1,0 +1,5 @@
+com\trs\financial\pojo\IWenCaiDataDTO.class
+com\trs\financial\utils\FileUtils.class
+com\trs\financial\manager\AnalysisManager.class
+com\trs\financial\service\AnalysisService.class
+com\trs\financial\config\SwaggerConfiguration.class
